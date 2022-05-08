@@ -11,6 +11,14 @@ node_modules
 dist
 dist-ssr
 *.local
+.expo/
+web-build/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
 
 # Editor directories and files
 .vscode/*
