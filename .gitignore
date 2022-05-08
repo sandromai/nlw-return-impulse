@@ -35,5 +35,4 @@ web-build/
 .env.local
 
 coverage/
-prisma/
-!prisma/schema.prisma
+server/prisma/dev.db
