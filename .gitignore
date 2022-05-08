@@ -32,6 +32,7 @@ web-build/
 *.sw?
 
 .env
+.env.local
 
 coverage/
 prisma/
